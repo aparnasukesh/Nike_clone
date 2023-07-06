@@ -375,3 +375,38 @@ body{
     margin-left: 30px;
     margin-top: 100px;
 }
+
+.search-container {
+  position: relative;
+  width: 50px;
+  height: 20px;
+}
+
+.search-bar {
+    height: 33px;
+    border-radius: 29px;
+    background-color: #e8e8e8;
+    border: darkgray;
+    text-align: center;
+    margin-top: -6px;
+    width: 181px;
+    margin-left: -56px;
+}
+
+.search-button {
+    height: 30px;
+    width: 30px;
+    border-radius: 67%;
+    position: relative;
+    left: -51px;
+    top: -31px;
+    background-color: #e8e8e8;
+}
+
+.search-button :hover{
+    background-color: #978f8f;
+    
+    border-radius: 67%;
+   
+    
+}
